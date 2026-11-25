@@ -1,0 +1,34 @@
+{
+  "styles": [
+    {
+      "id": "photorealistic",
+      "label": "Photorealistic",
+      "promptSuffix": "photorealistic, natural lighting, realistic textures, sharp focus, 35mm lens"
+    },
+    {
+      "id": "cyberpunk",
+      "label": "Cyberpunk",
+      "promptSuffix": "cyberpunk, neon lights, rainy futuristic city, holographic signage"
+    },
+    {
+      "id": "anime",
+      "label": "Anime",
+      "promptSuffix": "anime style, vibrant colors, clean line art, expressive character design"
+    },
+    {
+      "id": "3d-render",
+      "label": "3D Render",
+      "promptSuffix": "3D render, octane render, soft studio lighting, physically based materials"
+    },
+    {
+      "id": "cinematic",
+      "label": "Cinematic",
+      "promptSuffix": "cinematic still, dramatic lighting, shallow depth of field, film grain"
+    },
+    {
+      "id": "dark-hacker",
+      "label": "Dark Hacker",
+      "promptSuffix": "dark hacker aesthetic, terminal glow, green matrix light, cybersecurity mood"
+    }
+  ]
+}

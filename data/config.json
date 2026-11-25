@@ -1,0 +1,26 @@
+{
+  "project": "Raj AI Studio",
+  "version": "1.0 FINAL",
+  "creator": "Raj Gautam",
+  "ports": {
+    "java_port": 8080,
+    "python_port": 5000
+  },
+  "defaultModel": "flux-realism",
+  "models": [
+    "flux-realism",
+    "flux",
+    "any-dark",
+    "turbo"
+  ],
+  "apiEndpoints": {
+    "generate": "/api/generate",
+    "history": "/api/history",
+    "styles": "/api/styles",
+    "health": "/api/health"
+  },
+  "engines": {
+    "pollinations": "https://image.pollinations.ai/prompt/{prompt}",
+    "huggingFace": "black-forest-labs/FLUX.1-schnell"
+  }
+}
